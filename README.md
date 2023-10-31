@@ -22,7 +22,7 @@ Technology, next-generation sequencing, and big-data have necessitated the use o
 
 Provide an introduction to your project.
 
-## ATC Agenda
+## The ATC Agenda
 
 You can view the ATC Agenda document [here](https://drive.google.com/your-agenda-link).
 
